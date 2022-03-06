@@ -7,7 +7,7 @@ SQL (XAMPP)
 ## Installation
 1. Install XAMPP or WAMPP.
 2. Open XAMPP Control panal and start [apache] and [mysql] .
-3. Download project from github(https://github.com/guptavishakha14/Judo-Club-Login-System)
+3. Download project from github(https://github.com/guptavishakha14/Judo-Club-Login-System.git)
 4. Extract files in C:\xampp\htdocs.
 5. Open link localhost/phpmyadmin
 6. Click on new at side navbar.
