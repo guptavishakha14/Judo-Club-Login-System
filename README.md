@@ -1,5 +1,9 @@
 # Judo Club Login System🥋
 This is a Judo Club website with the purpose to provide a place where newcomers can gain information about the Club and also provides the facility of login system to the users.
+## Front end
+HTML, CSS and PHP.
+## Back end
+SQL (XAMPP)
 ## Installation
 1. Install XAMPP or WAMPP.
 2. Open XAMPP Control panal and start [apache] and [mysql] .
@@ -13,7 +17,6 @@ This is a Judo Club website with the purpose to provide a place where newcomers 
 10. After importing successfully.
 11. Open any browser and type http://localhost/home.php
 12. First register and then login.
-
 ## Screenshots
 ![Screenshot (10718)](https://user-images.githubusercontent.com/59644712/156917668-f96db880-01cf-4aa9-acef-ea138ecbd4da.png)
 
